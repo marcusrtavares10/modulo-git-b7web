@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    color: slateblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 30px;
+}
+
+body{
+    margin: 0px;
+}
+
+ul{
+    list-style-type: square;
+    font-size: 20px;
+    color: violet;
+    margin: 30px;
+    font-weight: bold;
+}
+
+ol{
+    font-size: 20px;
+    color: red;
+    margin: 30px;
+}
+
+table{
+    border: 1px solid #000;
+}
+
+table thead{
+    background-color: #CCC;
+}
+ 
+th, td{
+    padding: 10px;
+    text-align: left;
+}
+
+tbody tr:hover{
+    background-color: #EEE;
+}
+
+tbody td{
+    border: 1px solid #ccc;
+}
+
+tbody tr:nth-child(even){
+    background-color: #DDD;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
